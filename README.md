@@ -3,3 +3,8 @@ Custom CSS solutions for Divi WordPress projects, designed to solve common styli
 ## Disclaimer
 
 This repository is provided "as is" without any warranties. Use the CSS and code snippets at your own risk. While we aim to provide functional and useful code, we are not responsible for any issues, errors, or damages that may occur from its use. Always test the code thoroughly before implementing it in live projects.
+/* 
+ Unofficial custom CSS for Divi WordPress.
+ Not affiliated with or endorsed by Elegant Themes.
+ Use at your own risk.
+*/
