@@ -41,6 +41,7 @@ This repository contains custom CSS solutions for Divi WordPress projects, inclu
    }
 
    Step 3: Update the Link
+   
 3. Go to Divi > Theme Options > Social Media.
 In the Facebook URL field, add the link to your desired page.
 Step 4: Save and Test
