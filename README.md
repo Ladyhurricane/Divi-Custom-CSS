@@ -40,13 +40,15 @@ This repository contains custom CSS solutions for Divi WordPress projects, inclu
      opacity: 0.8;
    }
 
-   Step 3: Update the Link
+   
    
 3. Go to Divi > Theme Options > Social Media.
 In the Facebook URL field, add the link to your desired page.
 Step 4: Save and Test
 Save your changes.
 Verify the icon appears and links correctly on your site.
+
+Divi Theme Options > General > Disable Facebook Icon so the bluesky icon will show 
 
 Note: I am using Facebook because I am not using Facebook.  Any icon can be used.  
 
